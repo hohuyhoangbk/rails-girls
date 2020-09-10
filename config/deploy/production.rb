@@ -64,4 +64,3 @@ set :ssh_options, {
 #     # password: "please use keys"
 #   }
 #
-config.require_master_key = true
